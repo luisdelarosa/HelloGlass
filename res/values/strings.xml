@@ -4,5 +4,6 @@
     <string name="app_name">HelloGlass</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="glass_voice_trigger">say hello</string>
+    
 </resources>
